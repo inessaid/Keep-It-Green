@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284973027713",
+    "firebase_url": "https://keep-it-green-tech-together.firebaseio.com",
+    "project_id": "keep-it-green-tech-together",
+    "storage_bucket": "keep-it-green-tech-together.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284973027713:android:e7735ed50a76ab4c001880",
+        "android_client_info": {
+          "package_name": "com.techtogether.keepitgreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284973027713-fp1c3csbp8klulrth8ec735e37ob8l1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANwVF629DtxFfhIhoolJKU_rv_ZeuWMwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284973027713-fp1c3csbp8klulrth8ec735e37ob8l1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
