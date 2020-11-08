@@ -20,6 +20,6 @@ public class clickhandler : MonoBehaviour
     public void Clickhandler()
     {
         myUI.SetActive(true);
-        mystuff.SetActive(false);
+      //  mystuff.SetActive(false);
     }
 }
